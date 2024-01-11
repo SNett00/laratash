@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.0",
-        "illuminate/view": "^7.0",
+        "illuminate/view": "6.0",
         "illuminate/filesystem": "^7.0",
         "illuminate/support": "^7.0",
         "mustache/mustache": "^2.0"
