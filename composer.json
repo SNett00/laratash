@@ -23,6 +23,5 @@
         "psr-4": {
             "Laratash\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
