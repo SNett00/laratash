@@ -13,6 +13,7 @@ class FilesystemLoader implements Mustache_loader
     private $finder;
     /** @var Filesystem */
     private $files;
+    private $app;
 
     public function __construct(Filesystem $files)
     {
